@@ -1,2 +1,4 @@
-# taidi
-GitHub study
+# 学习pix2pix
+--- 
+-单人开发
+-论文需要
